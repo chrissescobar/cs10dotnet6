@@ -1,0 +1,16 @@
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\refint\HelloCS.dll
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll

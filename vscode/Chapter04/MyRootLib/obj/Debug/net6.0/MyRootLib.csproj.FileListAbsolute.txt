@@ -1,0 +1,12 @@
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\bin\Debug\net6.0\MyRootLib.deps.json
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\bin\Debug\net6.0\MyRootLib.dll
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\bin\Debug\net6.0\MyRootLib.pdb
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\MyRootLib.csproj.AssemblyReference.cache
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\MyRootLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\MyRootLib.AssemblyInfoInputs.cache
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\MyRootLib.AssemblyInfo.cs
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\MyRootLib.csproj.CoreCompileInputs.cache
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\MyRootLib.dll
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\refint\MyRootLib.dll
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\MyRootLib.pdb
+C:\Users\soulstealer\Repos\cs10dotnet6\vscode\Chapter04\MyRootLib\obj\Debug\net6.0\ref\MyRootLib.dll
